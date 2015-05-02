@@ -1,0 +1,184 @@
+#EXTM3U
+#EXTINF:-1,A ***BratuMarian IPTV***
+
+http://www.bratu-marian.ro/
+
+#EXTINF:-1,A1 Report
+rtmp://46.183.120.158/ott/a1report
+#EXTINF:-1,a1 report
+rtmp://66.55.93.204/livepkgr/a1stream?adbe-live-event=a1report
+#EXTINF:-1,ABC News
+rtmp://46.183.120.158/ott/abcnews
+#EXTINF:-1,Agon Channel
+
+http://str105mb.setplex.net:1935/str2iosmd5/7ios_agontv_34536544/playlist.m3u8
+
+#EXTINF:-1,Aksion
+rtmp://46.183.120.158/ott/filmaksion
+#EXTINF:-1,Alb Uk HD
+rtmp://188.138.17.8:1935/albuk/albuk.stream
+#EXTINF:-1,Alb Uk Plus
+rtmp://188.138.17.8:1935/albuk/albuk+.stream
+#EXTINF:-1,Alsat
+rtmp://46.183.120.158/ott/as
+#EXTINF:-1,Baby TV
+rtmp://46.183.120.158/ott/babytv
+#EXTINF:-1,Bang Bang
+rtmp://46.183.120.158/ott/bangbang
+#EXTINF:-1,BB1
+rtmp://46.183.120.158/ott/bigbrother1
+#EXTINF:-1,BB2
+rtmp://46.183.120.158/ott/bigbrother2
+#EXTINF:-1,C ***BratuMarian IPTV***
+
+http://www.bratu-marian.ro/
+
+#EXTINF:-1,Channel ONE
+rtmp://46.183.120.158/ott/channelone
+#EXTINF:-1,City TV
+rtmp://46.183.120.158/ott/citytv
+#EXTINF:-1,Cufo TV
+rtmp://46.183.120.158/ott/cufotv
+#EXTINF:-1,Disney Channel
+rtmp://46.183.120.158/ott/disneychannel
+#EXTINF:-1,Drama
+rtmp://46.183.120.158/ott/filmdrame
+#EXTINF:-1,EXP Histori
+rtmp://46.183.120.158/ott/exphistori
+#EXTINF:-1,Exp Natyra
+rtmp://46.183.120.158/ott/expnatyra
+#EXTINF:-1,EXP Shkence
+rtmp://46.183.120.158/ott/expshkence
+#EXTINF:-1,Film 1 HD
+rtmp://46.183.120.158/ott/filmnjehd
+#EXTINF:-1,Film 2 HD
+rtmp://46.183.120.158/ott/filmdyhd
+#EXTINF:-1,First TV
+rtmp://46.183.120.158/ott/firsttv
+#EXTINF:-1,Fox Crime
+rtmp://46.183.120.158/ott/foxcrime
+#EXTINF:-1,Fox life
+rtmp://46.183.120.158/ott/foxlife
+#EXTINF:-1,Hits
+rtmp://46.183.120.158/ott/filmhits
+#EXTINF:-1,Hits+1
+rtmp://46.183.120.158/ott/filmhitsplus1
+#EXTINF:-1,Junior TV
+rtmp://46.183.120.158/ott/juniortv
+#EXTINF:-1,K ***BratuMarian IPTV***
+
+http://www.bratu-marian.ro/
+
+#EXTINF:-1,Klan HD
+rtmp://46.183.120.158/ott/klanhd
+#EXTINF:-1,Klan Kosova
+rtmp://46.183.120.158/ott/klankosova
+#EXTINF:-1,Komedi
+rtmp://46.183.120.158/ott/filmkomedi
+#EXTINF:-1,KTV
+rtmp://46.183.120.158/ott/kohavizion
+#EXTINF:-1,M ***BratuMarian IPTV***
+
+http://www.bratu-marian.ro/
+
+#EXTINF:-1,MAD TV
+rtmp://46.183.120.158/ott/madtv
+#EXTINF:-1,Mktv 2 (Mrt2)
+
+http://stream.mrt-edge.spectar.tv:1935/mrt-liveedge/_definst_/amlst:dm/hls/video_id/3548/token/bd0b11a4f8d05cc0bffe589f55909615/chunklist_w787058205_b1196000.m3u8
+
+#EXTINF:-1,Music AL
+rtmp://46.183.120.158/ott/musical
+#EXTINF:-1,MY Musice
+rtmp://46.183.120.158/ott/mymusic
+#EXTINF:-1,N ***BratuMarian IPTV***
+
+http://www.bratu-marian.ro/
+
+#EXTINF:-1,n24
+rtmp://66.55.93.203/livepkgr//n24stream?adbe-live-event=news24
+#EXTINF:-1,National Geografic
+rtmp://46.183.120.158/ott/natgeo
+#EXTINF:-1,National Geografic Wild
+rtmp://46.183.120.158/ott/natgeowild
+#EXTINF:-1,O ***BratuMarian IPTV***
+
+http://www.bratu-marian.ro/
+
+#EXTINF:-1,ORA News
+rtmp://46.183.120.158/ott/oranews
+#EXTINF:-1,P ***BratuMarian IPTV***
+
+http://www.bratu-marian.ro/
+
+#EXTINF:-1,PEACE TV
+rtmp://82.114.67.178:81/livepkgr/livestream1
+#EXTINF:-1,Plus HD
+rtmp://46.183.120.158/ott/plushd
+#EXTINF:-1,R ***BratuMarian IPTV***
+
+http://www.bratu-marian.ro/
+
+#EXTINF:-1,rrokum
+rtmp://82.114.65.202/live/rrokumtv
+#EXTINF:-1,RROKUM TV
+rtmp://82.114.65.202/live//rrokumtv
+#EXTINF:-1,RTK
+rtmp://wowza.rtkit.com/live/livestream
+#EXTINF:-1,RTK
+rtmp://46.183.120.158/ott/rtk
+#EXTINF:-1,Rtk 1
+
+http://wowza.rtkit.com:1935/live/livestream/chunklist.m3u8?wowzasessionid=491913886
+
+#EXTINF:-1,S ***BratuMarian IPTV***
+
+http://www.bratu-marian.ro/
+
+#EXTINF:-1,STV Folk
+rtmp://46.183.120.158/ott/stvfolk
+#EXTINF:-1,Super Sport 1
+rtmp://46.183.120.158/ott/ss1
+#EXTINF:-1,Super Sport 2
+rtmp://46.183.120.158/ott/ss2
+#EXTINF:-1,Super Sport 3
+rtmp://46.183.120.158/ott/ss3
+#EXTINF:-1,Super Sport 4
+rtmp://46.183.120.158/ott/ss4
+#EXTINF:-1,T
+rtmp://46.183.120.158/ott/t
+#EXTINF:-1,T ***BratuMarian IPTV***
+
+http://www.bratu-marian.ro/
+
+#EXTINF:-1,T+1
+rtmp://46.183.120.158/ott/tplus1
+#EXTINF:-1,Thriller
+rtmp://46.183.120.158/ott/filmthriller
+#EXTINF:-1,Top Channel
+rtmp://46.183.120.158/ott/topchannelhd
+#EXTINF:-1,Top-news
+rtmp://46.183.120.158/ott/topnews
+#EXTINF:-1,TRING TRING
+
+http://185.75.56.37:8056
+
+#EXTINF:-1,TV ERA
+
+http://217.16.82.6:1935/zulu//era_2/simpletvmaclinkleri.m3u8
+
+#EXTINF:-1,TV21
+rtmp://46.183.120.158/ott/rtv21
+#EXTINF:-1,tvjug
+rtmp://84.20.77.50/live//livestream2
+#EXTINF:-1,V ***BratuMarian IPTV***
+
+http://www.bratu-marian.ro/
+
+#EXTINF:-1,VISION PLUS
+rtmp://live.vizionplus.tv/live//livestream2
+#EXTINF:-1,Vizion Plus
+rtmp://slive.vizionplus.tv:1935/live/livestream2
+#EXTINF:-1,Vizion Plus m3u8
+
+http://slive.vizionplus.tv:1935/live/livestream2/BratuMarian.m3u8

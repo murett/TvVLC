@@ -1,0 +1,77 @@
+﻿#EXTM3U
+#EXTINF:-1,Peace Tv
+http://5.101.112.149:9705/satsupreme/cccam-server.net/1.ch
+#EXTINF:-1,Rtv Islam
+http://5.101.112.149:9705/satsupreme/cccam-server.net/30.ch
+#EXTINF:-1,Big brother 1
+http://5.101.112.149:9705/satsupreme/cccam-server.net/3.ch
+#EXTINF:-1,SS1 HD
+http://5.101.112.149:9705/satsupreme/cccam-server.net/2.ch
+#EXTINF:-1,Top Channel HD
+http://5.101.112.149:9705/satsupreme/cccam-server.net/4.ch
+#EXTINF:-1,Rtk1
+http://5.101.112.149:9705/satsupreme/cccam-server.net/5.ch
+#EXTINF:-1,Dy HD
+http://5.101.112.149:9705/satsupreme/cccam-server.net/7.ch
+#EXTINF:-1,sport
+http://5.101.112.149:9705/satsupreme/cccam-server.net/6.ch
+#EXTINF:-1,test
+http://5.101.112.149:9705/satsupreme/cccam-server.net/8.ch
+#EXTINF:-1,Bang Bang
+http://5.101.112.149:9705/satsupreme/cccam-server.net/17.ch
+#EXTINF:-1,Bein Sport 1 HD
+http://5.101.112.149:9705/satsupreme/cccam-server.net/24.ch
+#EXTINF:-1,Bein Sport 2 HD
+http://5.101.112.149:9705/satsupreme/cccam-server.net/23.ch
+#EXTINF:-1,Bein Sport 3 HD
+http://5.101.112.149:9705/satsupreme/cccam-server.net/25.ch
+#EXTINF:-1,Channel one
+http://5.101.112.149:9705/satsupreme/cccam-server.net/13.ch
+#EXTINF:-1,Cufo
+http://5.101.112.149:9705/satsupreme/cccam-server.net/18.ch
+#EXTINF:-1,Film Komwdi
+http://5.101.112.149:9705/satsupreme/cccam-server.net/16.ch
+#EXTINF:-1,RTSH HD
+http://5.101.112.149:9705/satsupreme/cccam-server.net/20.ch
+#EXTINF:-1,Klan HD
+http://5.101.112.149:9705/satsupreme/cccam-server.net/10.ch
+#EXTINF:-1,Klan Kosova
+http://5.101.112.149:9705/satsupreme/cccam-server.net/15.ch
+#EXTINF:-1,Agon
+http://5.101.112.149:9705/satsupreme/cccam-server.net/19.ch
+#EXTINF:-1,Albanian Screen
+http://5.101.112.149:9705/satsupreme/cccam-server.net/14.ch
+#EXTINF:-1,SS3 HD
+http://5.101.112.149:9705/satsupreme/cccam-server.net/11.ch
+#EXTINF:-1,SS4 HD
+http://5.101.112.149:9705/satsupreme/cccam-server.net/12.ch
+#EXTINF:-1,Tring Tring
+http://5.101.112.149:9705/satsupreme/cccam-server.net/22.ch
+#EXTINF:-1,Vizion Plus
+http://5.101.112.149:9705/satsupreme/cccam-server.net/21.ch
+#EXTINF:-1,SS2 HD
+http://5.101.112.149:9705/satsupreme/cccam-server.net/26.ch
+#EXTINF:-1,Alsat M
+http://5.101.112.149:9705/satsupreme/cccam-server.net/32.ch
+#EXTINF:-1,Era Tv
+http://5.101.112.149:9705/satsupreme/cccam-server.net/34.ch
+#EXTINF:-1,Folk +
+http://5.101.112.149:9705/satsupreme/cccam-server.net/35.ch
+#EXTINF:-1,rtv Jug
+http://5.101.112.149:9705/satsupreme/cccam-server.net/31.ch
+#EXTINF:-1,Stv Folk
+http://5.101.112.149:9705/satsupreme/cccam-server.net/33.ch
+#EXTINF:-1,A1 Report
+http://5.101.112.149:9705/satsupreme/cccam-server.net/36.ch
+#EXTINF:-1,Mad
+http://5.101.112.149:9705/satsupreme/cccam-server.net/39.ch
+#EXTINF:-1,Mrt 2 hd
+http://5.101.112.149:9705/satsupreme/cccam-server.net/37.ch
+#EXTINF:-1,News 24
+http://5.101.112.149:9705/satsupreme/cccam-server.net/38.ch
+#EXTINF:-1,star +
+http://5.101.112.149:9705/satsupreme/cccam-server.net/40.ch
+#EXTINF:-1,Abc News
+http://5.101.112.149:9705/satsupreme/cccam-server.net/41.ch
+rtmp://204.77.214.18/mogulus-stream-edge/abcalbania/rtmp://212-72.livestream.com/affiliateStream/abcalbania/6c69766572657065617465723a72746d703a2f2f3231322d37322e6c69766573747265616d2e636f6d2f6d6f67756c75732f616263616c62616e69612f656c64726964693030303032303135303432372d3138313630305f333436
+http://81.7.13.162/hls/bigbrother1/index.m3u8

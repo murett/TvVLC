@@ -1,0 +1,47 @@
+﻿#EXTM3U
+#EXTINF:-1,***HasBahCa IPTV***DSMART-DİGİTÜRK***DEVAMLI CALISMAYABILIR
+http://www.hasbahcaiptv.com/m3u/turkiye.mp4
+#EXTINF:-1,3D FILM
+http://203108:203108@212.129.54.180:5038
+#EXTINF:-1,B16
+http://188.138.17.30:99/live?channelId=246&uid=340&deviceUser=terminator&devicePass=Bz8q9u3D
+#EXTINF:-1,Dizi 1
+http://stream.ssh101.com/hls/dizi1.m3u8
+#EXTINF:-1,Dizi 2
+http://stream.ssh101.com/hls/dizi2.m3u8
+#EXTINF:-1,Dizi 3
+http://stream.ssh101.com/hls/dizi3.m3u8
+#EXTINF:-1,Dizi 4
+http://stream.ssh101.com/hls/dizi4.m3u8
+#EXTINF:-1,Dizi 5
+http://stream.ssh101.com/hls/dizi5.m3u8
+#EXTINF:-1,İsviçre FM http://isvicrefm.com
+http://95.173.184.17:5050/;stream.mp3
+#EXTINF:-1,Local Turk
+http://stream.ssh101.com/hls/locaturk.m3u8
+#EXTINF:-1,MAC SAATI
+http://hls.goodgame.ru/hls/21667.m3u8
+#EXTINF:-1,SALON 1
+http://203108:203108@212.129.54.180:5016
+#EXTINF:-1,SİNEMA 1 Filmler zamanla değişiyor
+http://goo.gl/6s4TCq
+#EXTINF:-1,SİNEMA 1 Filmler zamanla değişiyor
+http://goo.gl/6s4TCq
+#EXTINF:-1,SİNEMA 2 Filmler zamanla değişiyor
+http://goo.gl/Rx54Qi
+#EXTINF:-1,SİNEMA 2 Filmler zamanla değişiyor
+http://goo.gl/Rx54Qi
+#EXTINF:-1,SİNEMA 3 Filmler zamanla değişiyor
+http://goo.gl/0vPLnn
+#EXTINF:-1,SİNEMA 3 Filmler zamanla değişiyor
+http://goo.gl/0vPLnn
+#EXTINF:-1,SINEMA TV YAYIN-1
+http://avaralarforum.nazuka.net/avaralarforum_sinema_TV:5001
+#EXTINF:-1,SINEMA TV YAYIN-2
+http://avaralarforum.nazuka.net/avaralarforum_sinema_TV:5002
+#EXTINF:-1,SINEMA TV YAYIN-3
+http://avaralarforum.nazuka.net/avaralarforum_sinema_TV:5003
+#EXTINF:-1,TACLive
+http://stream.ssh101.com/free/TACLive.m3u8
+#EXTINF:-1,***HasBahCa IPTV***TÜRKIYE YEREL Kanallar***
+http://www.hasbahcaiptv.com/m3u/turkiye.mp4

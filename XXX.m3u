@@ -1,0 +1,97 @@
+﻿#EXTM3U
+#EXTINF:-1,***HasBahCa IPTV***YETİSKİN-ADULT+18***
+http://www.hasbahcaiptv.com/m3u/turkiye.mp4
+#EXTINF:-1,ASIA 8081
+http://59.120.43.181:8081
+#EXTINF:-1,ASIA 8082
+http://59.120.43.181:8082
+#EXTINF:-1,ASIA 8083
+http://59.120.43.181:8083
+#EXTINF:-1,ASIA 8084
+http://59.120.43.181:8084
+#EXTINF:-1,ASIA 8085
+http://59.120.43.181:8085
+#EXTINF:-1,ASIA 8086
+http://59.120.43.181:8086
+#EXTINF:-1,ASIA 8087
+http://59.120.43.181:8087
+#EXTINF:-1,ASIA rtmp ttv10
+rtmp://149.3.141.210:1935/tv/ttv10
+#EXTINF:-1,ASIA rtmp ttv11
+rtmp://149.3.141.210:1935/tv/ttv11
+#EXTINF:-1,ASIA rtmp ttv12
+rtmp://149.3.141.210:1935/tv/ttv12
+#EXTINF:-1,ASIA rtmp ttv13
+rtmp://149.3.141.210:1935/tv/ttv13
+#EXTINF:-1,ASIA rtmp ttv14
+rtmp://149.3.141.210:1935/tv/ttv14
+#EXTINF:-1,ASIA rtmp ttv15
+rtmp://149.3.141.210:1935/tv/ttv15
+#EXTINF:-1,ASIA rtmp ttv16
+rtmp://149.3.141.210:1935/tv/ttv16
+#EXTINF:-1,BABESTATION 05
+http://46.105.116.159:1935/cellcast/encoder5/HasBahCa.m3u8
+#EXTINF:-1,BABESTATION 21
+http://46.105.116.159:1935/cellcast/encoder21/HasBahCa.m3u8
+#EXTINF:-1,BABESTATION 33
+http://46.105.116.159:1935/cellcast/encoder33/HasBahCa.m3u8
+#EXTINF:-1,BABESTATION 41
+http://46.105.116.159:1935/cellcast/encoder41/HasBahCa.m3u8
+#EXTINF:-1,BABESTATION 42
+http://46.105.116.159:1935/cellcast/encoder42/HasBahCa.m3u8
+#EXTINF:-1,BABESTATION 43
+http://46.105.116.159:1935/cellcast/encoder43/HasBahCa.m3u8
+#EXTINF:-1,Blue Hustler
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+#EXTINF:-1,Brasileirinhas
+http://212.129.30.215/brasileirinhas/brasileirinhas/chunklist_w219953667.m3u8
+#EXTINF:-1,Brazers TV (ххх)
+http://178.167.14.238:7781/udp/234.5.2.248:1234
+#EXTINF:-1,CS Sex +18 ADULT mmsh
+mmsh://tv.webmisto.cz:7000
+#EXTINF:-1,DLDVS 1
+http://208.122.3.2:9000
+#EXTINF:-1,DLDVS 2
+http://208.122.3.2:8700
+#EXTINF:-1,Fashion tv
+http://178.167.14.238:7781/udp/234.5.2.172:1234
+#EXTINF:-1,HQ Amateurs
+http://galsflv.videosz.com//mom-and-the-pop_5/videosz-mom-and-the-pop-53.flv
+#EXTINF:-1,Korea m3u8 Ask TV
+http://edge2.everyon.tv/etv2/phd1005/HasBahCa.m3u8
+#EXTINF:-1,Korea m3u8 Livething Premium
+http://edge2.everyon.tv/etv2/phd1006/HasBahCa.m3u8
+#EXTINF:-1,Korea m3u8 Okadai
+http://edge2.everyon.tv/etv2/pld1003/HasBahCa.m3u8
+#EXTINF:-1,Korea m3u8 Okadai HD
+http://edge2.everyon.tv/etv2/phd1003/HasBahCa.m3u8
+#EXTINF:-1,Korea m3u8 Paradise TV
+http://edge2.everyon.tv/etv2/pld1008/HasBahCa.m3u8
+#EXTINF:-1,Korea rtmp Ask TV
+rtmp://edge2.everyon.tv/etv2/phd1005
+#EXTINF:-1,Korea rtmp Livething Premium
+rtmp://edge2.everyon.tv/etv2/phd1006
+#EXTINF:-1,Korea rtmp Okadai
+rtmp://edge2.everyon.tv/etv2/pld1003
+#EXTINF:-1,Korea rtmp Okadai HD
+rtmp://edge2.everyon.tv/etv2/phd1003
+#EXTINF:-1,Korea rtmp Paradise TV
+rtmp://edge2.everyon.tv/etv2/pld1008
+#EXTINF:-1,Olala
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+#EXTINF:-1,PlayBoy (ххх)
+http://178.167.14.238:7781/udp/234.5.2.247:1234
+#EXTINF:-1,RUS PRIVATE
+http://185.38.12.20:8088/private/
+#EXTINF:-1,Russian night
+http://185.38.12.20:8088/rusnoch/
+#EXTINF:-1,Russian Night
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
+#EXTINF:-1,Russian Night (ххх)
+http://178.167.14.238:7781/udp/234.5.2.249:1234
+#EXTINF:-1,VOD
+http://cdn5.iviplanet.com:1935/VODLive2/_definst_/smil:vodlive2.smil/chunklist_w1867210504_b1300000.m3u8
+#EXTINF:-1,XXL (ххх)
+http://178.167.14.238:7781/udp/234.5.2.246:1234
+#EXTINF:-1,XXX 2
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
